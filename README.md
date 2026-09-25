@@ -1,32 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4c1d95,50:6d28d9,100:312e81&text=DHEERAJ%20MISHRA&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%2FML%20%7C%20Data%20Science%20%7C%20Full%20Stack&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:312e81,50:6d28d9,100:4c1d95&text=DHEERAJ%20MISHRA&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Data%20Analytics%20%7C%20AI%2FML%20%7C%20Data%20Science&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=B.Tech+CSE+Student+%7C+2024%E2%80%932028;Software+Engineering+%7C+AI%2FML+%7C+Data+Science;Building+Practical+Products+with+Code+%26+Data;Exploring+Modern+Backend+%26+AI+Systems" alt="Typing SVG" />
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=B.Tech+Computer+Science+Engineering+Student;Data+Analytics+%7C+AI%2FML+%7C+Data+Science;Building+Data-Driven+Projects+with+Python+%26+SQL;Exploring+Machine+Learning+%26+AI" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-CSE-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+<img src="https://img.shields.io/badge/B.Tech-CSE-6D28D9?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 <img src="https://img.shields.io/badge/KMCLU-2024--2028-4C1D95?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Science-6D28D9?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-312E81?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Lucknow%2C%20India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-6D28D9?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-312E81?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Science-4C1D95?style=for-the-badge&logo=databricks&logoColor=white"/>
 
 <br/><br/>
 
-<a href="https://github.com/dheerajmishra75">
-<img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/dheeraj-mishra-5513b0356/">
-<img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:">
-<img src="https://img.shields.io/badge/Email-312E81?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/dheeraj-mishra-5513b0356">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/dheerajmishra75">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-312E81?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -39,36 +33,25 @@
 
 ---
 
-## 👨‍💻 About
+## 👨‍💻 About Me
 
-I am a **B.Tech Computer Science Engineering student at Khwaja Moinuddin Chishti Language University**, focused on building practical software systems across **software engineering, AI/ML, data science, backend development, and full-stack development**.
+I am a **B.Tech Computer Science Engineering student at Khwaja Moinuddin Chishti Language University**, focused primarily on **Data Analytics**, with a strong interest in **AI/ML and Data Science**.
 
-My work combines programming fundamentals with applied engineering — from **NLP and machine learning workflows** to **SQL-driven analytics, REST APIs, authentication, databases, real-time systems, and AI-oriented backend development**.
+My work focuses on understanding data, extracting meaningful insights, building analytical solutions, and applying machine learning techniques to practical problems.
 
-I enjoy understanding systems from the data and backend layer upward, turning ideas into working products, and continuously improving how software is designed, tested, deployed, and maintained.
+I work with **Python, SQL, Excel, NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn**, while also exploring NLP, pretrained transformer models, and AI-based applications.
 
-### Engineering Interests
-
-- Software Engineering
-- Artificial Intelligence & Machine Learning
-- Natural Language Processing
-- Data Science & Data Analytics
-- Backend Development
-- REST APIs & Web Services
-- Database Design & SQL
-- Full Stack Development
-- AI-oriented Backend Systems
-- RAG & LLM Applications
-- DevOps Fundamentals
+My projects cover areas including **data analysis, SQL business analytics, machine learning, NLP, sentiment analysis, and practical Python applications**.
 
 ### Open To
 
-- Software Engineering Internships
-- Backend Development Opportunities
-- AI/ML & Data Science Opportunities
-- Data Analytics Projects
-- Open Source Collaboration
+- Data Analytics Internships
+- Data Science Opportunities
+- AI/ML Internships
+- Data Analysis Projects
+- Machine Learning Projects
 - Research & Technical Projects
+- Open Source Collaboration
 
 ---
 
@@ -80,100 +63,106 @@ I enjoy understanding systems from the data and backend layer upward, turning id
 <img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,sql"/>
 </p>
 
-### Frontend
+### Data Analytics & Data Science
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=python"/>
 </p>
 
-### Backend & Databases
+`NumPy` `Pandas` `Matplotlib` `Seaborn` `Scikit-learn` `Excel`
+
+### AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma,redis"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow"/>
 </p>
 
-### Cloud, DevOps & Tooling
+`Machine Learning` `NLP` `Text Classification` `TF-IDF` `RoBERTa` `VADER` `Hugging Face`
+
+### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,vercel"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb"/>
 </p>
 
-### Data & AI
+`SQL` `MySQL` `PostgreSQL` `MongoDB` `Database Design`
+
+### Development & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,tensorflow"/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman"/>
 </p>
+
+`REST APIs` `Git` `GitHub` `Linux` `Postman`
 
 ---
 
 ## 🤖 AI / ML Expertise
 
-| Domain | Proficiency | Details |
+| Domain | Level | Focus |
 |---|---|---|
-| Machine Learning | Intermediate | Supervised learning, model comparison, evaluation workflows |
-| Natural Language Processing | Intermediate | Text preprocessing, TF-IDF, sentiment analysis, text classification |
-| Transformer Models | Intermediate | Pretrained transformer inference using Hugging Face |
-| Data Analysis | Intermediate | Pandas, NumPy, SQL-based analysis and business insights |
-| Data Visualization | Intermediate | Matplotlib, Seaborn, analytical dashboards |
-| Scikit-learn | Intermediate | Classification, feature extraction, model evaluation |
-| AI APIs | Intermediate | Gemini / Google GenAI integration and AI-powered workflows |
-| RAG | Learning | Retrieval-Augmented Generation concepts and implementation |
-| LangChain | Learning | LLM application development and orchestration |
-| Backend AI | Learning | AI-oriented APIs, model integration, retrieval workflows |
+| Data Analytics | Core Focus | SQL analysis, business questions, data insights |
+| Data Science | Core Interest | Data preprocessing, analysis, visualization, ML workflows |
+| Machine Learning | Practical | Supervised learning, model comparison, evaluation |
+| Natural Language Processing | Practical | Text preprocessing, TF-IDF, sentiment and text classification |
+| Transformer Models | Practical | Pretrained CardiffNLP RoBERTa inference |
+| Scikit-learn | Practical | Classification and model evaluation |
+| Data Visualization | Practical | Matplotlib and Seaborn |
+| SQL Analytics | Practical | JOINs, aggregation, subqueries, window functions |
+| AI Applications | Exploring | AI APIs and NLP-based applications |
 
 ---
 
 ## 🚀 Featured Projects
 
 <details>
-<summary><strong>🧠 Sentiment Sense — Transformer-based Sentiment Analysis</strong></summary>
+<summary><strong>📊 DheerajShop Analytics — E-Commerce Sales Analytics</strong></summary>
 
 ### Overview
 
-A sentiment analysis application focused on **Natural Language Processing and pretrained transformer-based classification**.
+A SQL-driven e-commerce data analytics project focused on **relational database design, SQL queries, business analysis, and database views**.
 
-The project uses **pretrained CardiffNLP RoBERTa** for primary sentiment classification and **VADER** for supporting sentiment analysis.
+My contribution focused primarily on the **data and SQL layer**.
 
 ### Stack
 
 | Category | Technology |
 |---|---|
-| Language | Python / JavaScript |
-| NLP | CardiffNLP RoBERTa |
-| Supporting Model | VADER |
-| Transformer | Hugging Face Transformers |
-| Classification | Positive / Neutral / Negative |
-| Deployment | Vercel |
+| Database | MySQL / PostgreSQL |
+| Query Language | SQL |
+| Analysis | SQL Business Queries |
+| Database Design | Relational Database |
+| Advanced SQL | Window Functions |
+| Analytics | E-Commerce Business Analysis |
 
 ### Scale
 
-- Real-time analysis of completely new user-provided text
-- Probability distribution for sentiment classes
-- Recent analysis history
-- Browser-based model inference
+- Relational database containing customers, products, orders, order items, and payments
+- 17 SQL-driven business analyses
+- Database views
+- Multiple business questions
 
-### Performance
+### Analysis Areas
 
-- Transformer probability-based sentiment classification
-- Positive, Neutral, and Negative probability distribution
-- Model confidence analysis
-- VADER supporting sentiment scores
+- Revenue analysis
+- Product performance
+- Customer spending
+- Order status
+- Payment methods
+- Category performance
+- City-wise revenue
+- Inventory analysis
+- Daily sales trends
 
-### Security
+### SQL Concepts
 
-- No credentials required for basic text analysis
-- User-provided text is processed for analysis
-- No runtime dependency on the original dataset
-
-### Impact
-
-Demonstrates practical understanding of **pretrained NLP models, tokenization, sentiment inference, probability analysis, and comparative sentiment scoring**.
+`JOIN` `GROUP BY` `Aggregate Functions` `CASE` `Subqueries` `RANK()` `ROW_NUMBER()` `PARTITION BY`
 
 ### Repository
 
-[View Repository](https://github.com/dheerajmishra75/sentiment-sense)
+[GitHub Repository](https://github.com/dheerajmishra75/dheerajshopanalytics)
 
-[Live Demo](https://sentiment-sense-ten.vercel.app/)
+[Live Demo](https://dheerajshopanalytics.vercel.app/)
 
 </details>
 
@@ -184,9 +173,7 @@ Demonstrates practical understanding of **pretrained NLP models, tokenization, s
 
 ### Overview
 
-An NLP and machine learning project for classifying news articles as **Fake or Genuine**.
-
-The workflow covers dataset preparation, text preprocessing, TF-IDF feature extraction, supervised model training, model comparison, and evaluation.
+An NLP and machine learning project for classifying news articles as **Fake or Genuine** using text preprocessing, TF-IDF feature extraction, and supervised learning models.
 
 ### Stack
 
@@ -195,36 +182,38 @@ The workflow covers dataset preparation, text preprocessing, TF-IDF feature extr
 | Language | Python |
 | NLP | Text Preprocessing |
 | Feature Engineering | TF-IDF |
-| Models | Logistic Regression, Decision Tree |
-| Ensemble Models | Random Forest, Gradient Boosting |
-| ML Framework | Scikit-learn |
+| ML | Scikit-learn |
+| Models | Logistic Regression |
+| Models | Decision Tree |
+| Models | Random Forest |
+| Models | Gradient Boosting |
 
-### Scale
+### Machine Learning Workflow
 
-- Labeled Fake/True news dataset
-- Multiple supervised learning algorithms
-- Complete ML workflow from preprocessing to evaluation
+    Dataset
+       ↓
+    Text Preprocessing
+       ↓
+    TF-IDF Feature Extraction
+       ↓
+    Model Training
+       ↓
+    Model Comparison
+       ↓
+    Evaluation
 
-### Performance
+### Dataset Evaluation
 
-| Model | Dataset Accuracy |
+| Model | Accuracy |
 |---|---:|
 | Logistic Regression | 98.57% |
 | Random Forest | 98.90% |
 
-### Security
-
-- Text classification workflow operates on supplied news content
-- No claim is made that model predictions establish factual truth independently
-- Evaluation figures represent performance on the project dataset
-
-### Impact
-
-Strengthened practical understanding of **NLP preprocessing, feature engineering, supervised learning, model comparison, and evaluation**.
+These figures represent evaluation results on the project dataset.
 
 ### Repository
 
-[View Repository](https://github.com/dheerajmishra75/fake-genuine-news-detection)
+[GitHub Repository](https://github.com/dheerajmishra75/fake-genuine-news-detection)
 
 [Live Demo](https://fake-genuine-news-detection.vercel.app/)
 
@@ -233,329 +222,370 @@ Strengthened practical understanding of **NLP preprocessing, feature engineering
 ---
 
 <details>
-<summary><strong>📊 DheerajShop Analytics — E-Commerce Sales Intelligence</strong></summary>
+<summary><strong>🤖 Sentiment Sense — Sentiment Analysis</strong></summary>
 
 ### Overview
 
-A SQL-driven e-commerce analytics project focused on **relational database design, business analysis, analytical queries, and database views**.
+A sentiment analysis project focused on **Natural Language Processing and pretrained transformer-based sentiment classification**.
 
-The main contribution was focused on the **data and SQL layer** rather than the frontend interface.
+The project uses **pretrained CardiffNLP RoBERTa** for primary sentiment classification and **VADER** for supporting sentiment analysis.
 
 ### Stack
 
 | Category | Technology |
 |---|---|
-| Database | MySQL / PostgreSQL |
-| Query Language | SQL |
-| Database Design | Relational Modeling |
-| Analysis | SQL Business Queries |
-| Advanced SQL | Window Functions |
-| Analytics | Business Intelligence |
+| NLP | CardiffNLP RoBERTa |
+| Transformer | Hugging Face Transformers |
+| Supporting Analysis | VADER |
+| Classification | Positive / Neutral / Negative |
+| NLP Workflow | Tokenization & Probability Analysis |
 
-### Scale
+### Workflow
 
-- Customers
-- Products
-- Orders
-- Order Items
-- Payments
-- 17 SQL-driven business analyses
-- Database views
+    Text Input
+       ↓
+    Tokenization
+       ↓
+    CardiffNLP RoBERTa
+       ↓
+    Sentiment Probabilities
+       ↓
+    Predicted Sentiment
+       ↓
+    Confidence Analysis
+       ↓
+    VADER Supporting Analysis
 
-### Performance
+### Capabilities
 
-Analytical workflows use:
-
-- JOIN
-- GROUP BY
-- Aggregate Functions
-- CASE
-- Subqueries
-- RANK()
-- ROW_NUMBER()
-- PARTITION BY
-
-### Security
-
-The project follows a database-first approach where business calculations and analytical logic are handled through SQL queries and database views.
-
-### Impact
-
-Provides structured analysis across:
-
-- Revenue
-- Products
-- Customers
-- Orders
-- Payments
-- Categories
-- Cities
-- Inventory
-- Daily sales
+- Positive / Neutral / Negative classification
+- Probability distribution
+- Model confidence
+- VADER sentiment scores
+- Analysis of completely new user-provided text
+- Recent analysis history
 
 ### Repository
 
-[View Repository](https://github.com/dheerajmishra75/dheerajshopanalytics)
+[GitHub Repository](https://github.com/dheerajmishra75/sentiment-sense)
 
-[Live Demo](https://dheerajshopanalytics.vercel.app/)
+[Live Demo](https://sentiment-sense-ten.vercel.app/)
 
 </details>
 
 ---
 
 <details>
-<summary><strong>⚡ PulseOS — Student Productivity Workspace</strong></summary>
+<summary><strong>⌨️ Typing Speed Tester</strong></summary>
 
 ### Overview
 
-A student productivity workspace built around the **PLAN → FOCUS → IMPROVE** workflow.
-
-The system combines task management, focus workflows, real-time reminders, browser notifications, and backend scheduling.
+A Python terminal-based typing speed tester designed to practice typing performance measurement.
 
 ### Stack
 
 | Category | Technology |
 |---|---|
-| Frontend | React + Vite |
-| Backend | Node.js + Express |
-| Real-time | Socket.IO |
-| Database | MongoDB / PostgreSQL |
-| Scheduling | Node Cron |
-| Notifications | Browser Notifications |
-| API | REST |
+| Language | Python |
+| Interface | Terminal |
+| Core Concepts | Input, Timing & Calculations |
 
-### Scale
+### Features
 
-- Task management
-- Real-time reminder events
-- Notification permission workflow
-- Scheduled reminder processing
-- Socket.IO communication
-
-### Performance
-
-- Atomic reminder protection
-- Scheduler checks for connected clients
-- Real-time event delivery through Socket.IO
-- Backend-driven reminder processing
-
-### Security
-
-- Backend API architecture
-- Authentication-oriented architecture
-- Middleware-based request handling
-- Controlled notification workflow
-
-### Impact
-
-Designed to bring **planning, focused work, and improvement tracking** into one student productivity workflow.
+- Typing speed measurement
+- Accuracy calculation
+- Interactive typing test
+- Performance feedback
 
 ### Repository
 
-[View Repository](https://github.com/dheerajmishra75)
+[GitHub Repository](https://github.com/dheerajmishra75/Typing-Speed-Tester)
 
 </details>
 
 ---
 
 <details>
-<summary><strong>🌾 FarmerLift — Full Stack Web Platform</strong></summary>
+<summary><strong>🧠 Quiz App in Python</strong></summary>
 
 ### Overview
 
-A full-stack web platform using **Next.js and headless WordPress CMS**, with engineering work spanning frontend, backend integration, SEO, performance, accessibility, security, and DevOps auditing.
+A simple Python command-line quiz application with multiple-choice questions, answer validation, and interactive feedback.
 
 ### Stack
 
 | Category | Technology |
 |---|---|
-| Frontend | Next.js |
-| CMS | WordPress |
-| Architecture | Headless CMS |
-| Engineering | SEO, Performance, Accessibility |
-| DevOps | Deployment & Production Auditing |
+| Language | Python |
+| Interface | Command Line |
+| Concepts | Lists, Dictionaries & Conditional Logic |
 
-### Scale
+### Features
 
-- Headless CMS integration
-- Content-driven frontend
-- SEO-focused architecture
-- Production-oriented engineering audit
-
-### Performance
-
-Focused on:
-
-- Page performance
-- SEO
-- Accessibility
-- Frontend quality
-- Production readiness
-
-### Security
-
-Focused on:
-
-- API integration
-- Input handling
-- Backend validation
-- Security review
-- Deployment considerations
-
-### Impact
-
-Provided hands-on experience in evaluating a real-world web platform across multiple engineering dimensions rather than focusing only on UI development.
+- Multiple-choice questions
+- User input
+- Answer validation
+- Immediate feedback
 
 ### Repository
 
-[View Repository](https://github.com/dheerajmishra75)
+[GitHub Repository](https://github.com/dheerajmishra75/Quiz-App-in-Python)
 
 </details>
 
 ---
 
 <details>
-<summary><strong>🤖 Social Sync — AI Image Caption Generation</strong></summary>
+<summary><strong>📄 PDF Merger GUI</strong></summary>
 
 ### Overview
 
-A full-stack AI-powered application for generating captions from images using **Google Gemini Vision** with an Express backend and React frontend.
+A Python GUI utility for selecting and merging multiple PDF files into a single document.
 
 ### Stack
 
 | Category | Technology |
 |---|---|
-| Frontend | React + Vite |
-| Backend | Express |
-| Database | MongoDB |
-| AI | Google Gemini Vision |
-| Media | ImageKit CDN |
-| Runtime | Node.js |
+| Language | Python |
+| GUI | Tkinter |
+| PDF Processing | pypdf |
 
-### Scale
+### Features
 
-- AI-powered image caption generation
-- Image upload workflow
-- AI vision integration
-- MongoDB persistence
-- CDN-based media handling
-
-### Performance
-
-- AI-powered caption generation
-- CDN integration for media
-- Backend API workflow
-- Structured request processing
-
-### Security
-
-Production review identified important engineering considerations including:
-
-- Secret handling
-- File upload memory usage
-- Database reference consistency
-- API security
-
-### Impact
-
-Strengthened practical understanding of **AI API integration, full-stack architecture, media handling, backend APIs, and production-readiness auditing**.
+- Multiple PDF selection
+- PDF list management
+- Remove selected files
+- Clear selected files
+- Merge PDFs
+- Output file selection
 
 ### Repository
 
-[View Repository](https://github.com/dheerajmishra75)
+[GitHub Repository](https://github.com/dheerajmishra75/PDF-Merger-GUI-in-Python)
 
 </details>
 
 ---
 
-## 💼 Experience
+<details>
+<summary><strong>🔐 Password Manager Using Python</strong></summary>
 
-### Founder & Community Organizer — JOKER ESPORTS
+### Overview
 
-**December 2022 — Present**
+A Python command-line password manager created for practicing local file handling and clipboard interaction.
 
-Founded and organized a BGMI esports community focused on providing players with opportunities to participate in competitive gaming activities.
+### Stack
 
-- Organized free-entry scrims and tournaments
-- Managed recurring community activities
-- Coordinated players and tournament workflows
-- Built and maintained an active gaming community
-- Developed practical experience in ownership, coordination, and community management
+| Category | Technology |
+|---|---|
+| Language | Python |
+| Storage | Local Text File |
+| Clipboard | Pyperclip |
+| Interface | Command Line |
 
-`Leadership` `Community Management` `Operations` `Coordination`
+### Features
+
+- Save website passwords
+- Retrieve stored passwords
+- Local file storage
+- Clipboard support
+
+### Security Note
+
+The current project stores passwords as plain text and is intended for learning purposes rather than production password management.
+
+### Repository
+
+[GitHub Repository](https://github.com/dheerajmishra75/Build-a-Password-Manager-Using-Python)
+
+</details>
 
 ---
 
-### B.Tech Computer Science Engineering — KMCLU
+<details>
+<summary><strong>📂 File Organizer GUI</strong></summary>
+
+### Overview
+
+A Python GUI utility that organizes files into folders according to their file extensions.
+
+### Stack
+
+| Category | Technology |
+|---|---|
+| Language | Python |
+| GUI | Tkinter |
+| File System | os |
+| File Operations | shutil |
+
+### Features
+
+- Folder selection
+- File extension detection
+- Automatic category folders
+- File organization
+- File movement automation
+
+### Repository
+
+[GitHub Repository](https://github.com/dheerajmishra75/File-Organizer-GUI-in-Python)
+
+</details>
+
+---
+
+<details>
+<summary><strong>💧 Water Drinking Reminder</strong></summary>
+
+### Overview
+
+A simple Python desktop utility that sends periodic notifications as a drinking-water reminder.
+
+### Stack
+
+| Category | Technology |
+|---|---|
+| Language | Python |
+| Notifications | Plyer |
+| Timing | time module |
+| Interface | Desktop Notification |
+
+### Features
+
+- Desktop notifications
+- Configurable reminder interval
+- Continuous reminder loop
+- Notification timeout
+
+### Repository
+
+[GitHub Repository](https://github.com/dheerajmishra75/Water-Drinking-Reminder-with-Notifications)
+
+</details>
+
+---
+
+<details>
+<summary><strong>🎮 Snake Water Gun Game</strong></summary>
+
+### Overview
+
+A simple Python command-line game where the player competes against the computer using Snake, Water, or Gun.
+
+### Stack
+
+| Category | Technology |
+|---|---|
+| Language | Python |
+| Interface | Command Line |
+| Randomization | random |
+| Logic | Conditional Statements |
+
+### Features
+
+- Player choice
+- Random computer choice
+- Draw detection
+- Win/loss logic
+- Command-line interaction
+
+### Repository
+
+[GitHub Repository](https://github.com/dheerajmishra75/Snake-Water-gun-Game)
+
+</details>
+
+---
+
+<details>
+<summary><strong>🎯 The Perfect Guess</strong></summary>
+
+### Overview
+
+A Python number guessing game that generates a random number between 1 and 100 and provides higher or lower hints until the correct number is guessed.
+
+### Stack
+
+| Category | Technology |
+|---|---|
+| Language | Python |
+| Interface | Command Line |
+| Randomization | random |
+| Logic | While Loop & Conditions |
+
+### Features
+
+- Random number generation
+- Number guessing
+- Higher/lower hints
+- Attempt counter
+- Final result
+
+### Repository
+
+[GitHub Repository](https://github.com/dheerajmishra75/The-Perfect-Guess)
+
+</details>
+
+---
+
+## 📚 Education
+
+### B.Tech — Computer Science Engineering
+
+**Khwaja Moinuddin Chishti Language University, Lucknow**
 
 **2024 — 2028**
 
-Khwaja Moinuddin Chishti Language University.
+Current academic focus includes Computer Science fundamentals alongside practical learning in **Data Analytics, Data Science, AI/ML, programming, databases, and software development**.
 
-- Computer Science Engineering
-- Focus areas include software engineering, AI/ML, data science, backend development, and databases
-- Building practical projects alongside academic learning
+### Academic Performance
 
-`CSE` `Data Science` `Software Engineering` `AI/ML`
+| Level | Percentage | Year |
+|---|---:|---|
+| Class 10 | 84.8% | 2021–2022 |
+| Class 12 | 79% | 2023–2024 |
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Activities
 
-<div align="center">
-
-| Recognition | Details |
+| Area | Details |
 |---|---|
-| 🎓 Samsung Innovation Campus | Completed Artificial Intelligence certification and training |
-| ☁️ AWS | Completed Data Engineering on AWS — Foundations |
-| 🧠 AI / Data Science | Practical project work across NLP, ML, analytics, and AI applications |
-| 🗄️ SQL Analytics | Built a SQL-driven e-commerce analytics project with 17 business analyses |
-| 🤖 NLP | Implemented pretrained transformer-based sentiment classification |
-| 💻 Software Projects | Built and documented multiple Python, full-stack, backend, and data-focused projects |
-
-</div>
+| Data Analytics | Built SQL-driven e-commerce analytics with 17 business analyses |
+| Machine Learning | Implemented and evaluated multiple supervised learning models |
+| NLP | Worked with TF-IDF, VADER, and pretrained CardiffNLP RoBERTa |
+| Python | Built multiple practical Python applications |
+| Community | Founder of JOKER ESPORTS and organizer of free-entry gaming scrims and tournaments |
+| Projects | Developed projects across analytics, ML, NLP, Python, and software development |
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Learning
 
 ### AWS
 
-<a href="https://www.credly.com/">
 <img src="https://img.shields.io/badge/AWS-Data%20Engineering%20on%20AWS%20%7C%20Foundations-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</a>
-
-### Samsung Innovation Campus
-
-<a href="https://www.samsung.com/">
-<img src="https://img.shields.io/badge/Samsung-Innovation%20Campus%20%7C%20Artificial%20Intelligence-4C1D95?style=for-the-badge&logo=samsung&logoColor=white"/>
-</a>
 
 ### Google Cloud
 
-<a href="https://www.cloudskillsboost.google/">
-<img src="https://img.shields.io/badge/Google%20Cloud-Introduction%20to%20Generative%20AI-312E81?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/Google%20Cloud-Generative%20AI%20Fundamentals-4C1D95?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 
-<a href="https://www.cloudskillsboost.google/">
-<img src="https://img.shields.io/badge/Google%20Cloud-Introduction%20to%20Responsible%20AI-4C1D95?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/Google%20Cloud-Responsible%20AI-312E81?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+### Samsung Innovation Campus
+
+<img src="https://img.shields.io/badge/Samsung-Innovation%20Campus%20%7C%20AI-6D28D9?style=for-the-badge&logo=samsung&logoColor=white"/>
 
 ### freeCodeCamp
 
-<a href="https://www.freecodecamp.org/">
-<img src="https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design-6D28D9?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design-4C1D95?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
 
 ### HCL GUVI
 
-<a href="https://www.guvi.in/">
-<img src="https://img.shields.io/badge/HCL%20GUVI-ChatGPT%20for%20Everyone-4C1D95?style=for-the-badge"/>
-</a>
-
-<a href="https://www.guvi.in/">
 <img src="https://img.shields.io/badge/HCL%20GUVI-Data%20Engineering%20%26%20Big%20Data-312E81?style=for-the-badge"/>
-</a>
+
+<img src="https://img.shields.io/badge/HCL%20GUVI-ChatGPT%20for%20Everyone-4C1D95?style=for-the-badge"/>
 
 ---
 
@@ -587,7 +617,7 @@ Khwaja Moinuddin Chishti Language University.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=dheerajmishra75&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=dheerajmishra75&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD"/>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajmishra75&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD"/>
 
@@ -631,34 +661,36 @@ Khwaja Moinuddin Chishti Language University.
 
 ## 🎯 Current Focus
 
-```yaml
+``yaml
+Primary:
+  - Data Analytics
+  - Data Science
+  - AI / Machine Learning
+
 Learning:
-  - Advanced Data Structures & Algorithms
+  - Advanced SQL
+  - Python for Data Analysis
   - Machine Learning
   - Natural Language Processing
-  - Modern Backend Development
-  - LangChain & RAG
-  - PostgreSQL & Prisma
-  - Linux & DevOps
+  - Data Visualization
+  - Statistics
 
 Building:
-  - AI-powered applications
-  - Backend systems
-  - Data analytics projects
-  - Full-stack products
-  - Real-time applications
+  - Data Analytics Projects
+  - Machine Learning Projects
+  - NLP Applications
+  - SQL-driven Business Analytics
 
 Exploring:
-  - LLM applications
-  - Retrieval-Augmented Generation
-  - AI-oriented backend architecture
-  - Production-ready APIs
-  - Cloud and deployment workflows
+  - AI Applications
+  - Generative AI
+  - RAG
+  - LLM-based Applications
+  - Modern Backend Development
 
 Open To:
-  - Software Engineering Internships
-  - Backend Development
-  - AI/ML Opportunities
-  - Data Science & Analytics
-  - Open Source Collaboration
-  - Research Projects
+  - Data Analytics Internships
+  - Data Science Opportunities
+  - AI / ML Internships
+  - Data Projects
+  - Research & Technical Collaboration
