@@ -538,7 +538,7 @@ Connect
 
 <div align="center">
 
-"Turning data into insights, models into intelligence, and ideas into practical solutions."
+Turning data into insights, models into intelligence, and ideas into practical solutions.
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:4C1D95,50:6D28D9,100:312E81&height=120&section=footer" width="100%" />
 
