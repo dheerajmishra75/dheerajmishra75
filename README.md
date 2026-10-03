@@ -1,546 +1,463 @@
 <div align="center">
 
+# 👋 Hi, I'm Dheeraj Mishra
+
+### Data Science • Data Analytics 
+
 <a href="https://capsule-render.vercel.app/">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:312E81,50:6D28D9,100:4C1D95&height=220&section=header&text=Dheeraj%20Mishra&fontSize=55&fontColor=FFFFFF&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4C1D95,50:6D28D9,100:312E81&text=DHEERAJ%20MISHRA&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Data%20Science%20%7C%20ML%20%7C%20AI%20%7C%20Analytics&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
 </a>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Data+Science+%7C+Data+Analytics+%7C+AI%2FML;Machine+Learning+%7C+NLP+%7C+Computer+Vision;Python+%7C+SQL+%7C+Data+Visualization;B.Tech+Computer+Science+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Data+Science+%7C+Data+Analytics;Machine+Learning+%7C+NLP;Artificial+Intelligence+%7C+Computer+Vision;Python+%7C+SQL+%7C+Data+Visualization" alt="Typing introduction" />
 </a>
 
-<br>
+<br/>
 
-<img src="https://img.shields.io/badge/B.Tech-CSE-7C3AED?style=for-the-badge&logo=google-scholar&logoColor=white" />
-<img src="https://img.shields.io/badge/KMCLU-2024--2028-5B21B6?style=for-the-badge&logo=bookstack&logoColor=white" />
-<img src="https://img.shields.io/badge/Lucknow-India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/B.Tech-CSE-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="B.Tech CSE" />
+<img src="https://img.shields.io/badge/KMCLU-312E81?style=for-the-badge&logoColor=white" alt="KMCLU" />
+<img src="https://img.shields.io/badge/Bazpur%2C%20Uttarakhand-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 
-<br><br>
+<br/><br/>
 
-<a href="https://github.com/dheerajmishra75?tab=repositories">
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/dheerajmishra75">
+  <img src="https://img.shields.io/badge/GitHub-dheerajmishra75-181717?style=for-the-badge&logo=github" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/in/dheeraj-mishra-5513b0356">
-<img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Dheeraj%20Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:dheerajmishra753402@gmail.com">
-<img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/dheerajmishra75">
-<img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
-<br><br>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=dheerajmishra75&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/dheerajmishra75?style=for-the-badge&color=6D28D9&label=FOLLOWERS" />
-<img src="https://img.shields.io/github/stars/dheerajmishra75?affiliations=OWNER&style=for-the-badge&color=4C1D95&label=STARS" />
+<img src="https://komarev.com/ghpvc/?username=dheerajmishra75&label=PROFILE%20VIEWS&color=6D28D9&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/dheerajmishra75?label=FOLLOWERS&style=for-the-badge&color=4C1D95" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/dheerajmishra75?label=STARS&style=for-the-badge&color=7C3AED" alt="GitHub stars" />
 
 </div>
 
 ---
 
-## About Me
+## 🧠 About Me
 
-I am **Dheeraj Mishra**, a B.Tech Computer Science Engineering student at **Khwaja Moinuddin Chishti Language University, Lucknow**, with a primary focus on **Data Science, Data Analytics, Machine Learning, Natural Language Processing, Artificial Intelligence, and Computer Vision**.
+I'm **Dheeraj Mishra**, a B.Tech Computer Science Engineering student at **Khwaja Moinuddin Chishti University (KMCLU)**, focused on **Data Science, Data Analytics, Machine Learning, NLP, Artificial Intelligence and Computer Vision**.
 
-I enjoy working with data from the initial inspection and preprocessing stage through exploratory analysis, feature engineering, model development, evaluation, visualization, and insight generation.
+I enjoy working with real-world datasets, transforming raw data into meaningful insights, building machine learning workflows, performing exploratory analysis, and experimenting with NLP and computer vision techniques.
 
-My practical work focuses on building data-driven solutions and understanding how machine learning and AI techniques can be applied to real-world problems.
+My work includes projects involving **data preprocessing, EDA, SQL analytics, feature engineering, model training, model evaluation, data visualization and NLP**.
 
-### Core Focus
+Currently, I'm strengthening my foundation in advanced Data Science, Machine Learning, Statistics, SQL and AI while building practical projects.
 
-- Data Science
-- Data Analytics
-- Machine Learning
-- Natural Language Processing
-- Artificial Intelligence
-- Computer Vision
-- Exploratory Data Analysis
-- Statistical Analysis
-- Data Visualization
-- SQL & Database Analytics
-
-### Open To
-
-- Data Science Internships
-- Data Analytics Internships
-- Machine Learning Internships
-- NLP / AI Internships
-- Research Opportunities
-- Data-driven Open Source Projects
-- Industry-oriented Data Science Projects
+**Open to:** Data Science Internships • Data Analytics Internships • Machine Learning • AI/NLP • Computer Vision
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp" />
-
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,postgres" alt="Programming languages" />
+</p>
 
 ### Data Science & Analytics
 
-<div align="center">
+<p>
+<img src="https://skillicons.dev/icons?i=python" alt="Python" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white" alt="Seaborn" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+</p>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-6D28D9?style=for-the-badge&logo=tableau&logoColor=white" />
+### Machine Learning & AI
 
-</div>
+<p>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+<img src="https://img.shields.io/badge/NLP-6D28D9?style=for-the-badge&logoColor=white" alt="NLP" />
+<img src="https://img.shields.io/badge/TF--IDF-4C1D95?style=for-the-badge&logoColor=white" alt="TF-IDF" />
+<img src="https://img.shields.io/badge/VADER-7C3AED?style=for-the-badge&logoColor=white" alt="VADER" />
+<img src="https://img.shields.io/badge/Transformers-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+</p>
 
-### AI / NLP / Computer Vision
+### Tools & Databases
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Machine%20Learning-6D28D9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NLP-4C1D95?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Transformers-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/TF--IDF-5B21B6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/VADER-312E81?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Computer%20Vision-4C1D95?style=for-the-badge" />
-
-</div>
-
-### Tools & Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,mongodb,postgresql" />
-
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postgres,mongodb" alt="Tools and databases" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+</p>
 
 ---
 
-## AI / ML Expertise
+## 🤖 AI / ML Expertise
 
-| Domain | Proficiency | Details |
+| Domain | Tools / Concepts | Practical Work |
 |---|---|---|
-| **Data Science** | Applied | Data cleaning, EDA, statistical analysis, feature engineering and insight generation |
-| **Data Analytics** | Applied | Business-question-driven analysis, SQL analytics, aggregation and visualization |
-| **Machine Learning** | Applied | Supervised learning, model training, comparison and evaluation |
-| **Natural Language Processing** | Applied | Text preprocessing, TF-IDF, sentiment classification and NLP workflows |
-| **Transformer Models** | Applied | Pretrained CardiffNLP RoBERTa for sentiment classification |
-| **Sentiment Analysis** | Applied | Positive, Neutral and Negative classification with probability-based analysis |
-| **Computer Vision** | Applied | Image processing and road lane detection using OpenCV |
-| **Feature Engineering** | Applied | TF-IDF representation and domain-specific feature creation |
-| **Model Evaluation** | Applied | Accuracy comparison, confidence analysis and model performance evaluation |
-| **Statistical Analysis** | Applied | Descriptive statistics, correlation analysis, distributions and outlier analysis |
+| **Data Science** | Python, Pandas, NumPy, EDA, Statistics | Data cleaning, exploration and analysis |
+| **Data Visualization** | Matplotlib, Seaborn, Power BI, Tableau | Analytical dashboards and visual insights |
+| **Machine Learning** | Scikit-learn, Classification, Evaluation | Model training and performance evaluation |
+| **NLP** | TF-IDF, VADER, Transformers, RoBERTa | Sentiment and text classification |
+| **Computer Vision** | OpenCV, Edge Detection, Region Masking | Road lane detection |
+| **Data Analytics** | SQL, Excel, Business Analysis | Relational analysis and business insights |
 
 ---
 
-## Featured Projects
+# 🚀 Featured Projects
 
 <details>
 <summary><strong>🏠 Real Estate Data Analysis</strong></summary>
 
-### Real Estate Data Analysis
+<br/>
 
-Python-based **Data Science and Exploratory Data Analysis** project focused on analyzing real estate listings, property pricing, area, property types, localities, RERA approval, builders and other property attributes.
+A complete exploratory data analysis project focused on understanding property-market data through cleaning, transformation, statistical analysis and visualization.
 
-| Category | Details |
-|---|---|
-| **Stack** | Python, Pandas, NumPy, Matplotlib, Seaborn |
-| **Scale** | 19,515 records and 12 original columns |
-| **Performance** | 5,292 duplicate records removed; area-price correlation ≈ 0.1974 |
-| **Security** | Not a security-focused project |
-| **Impact** | Complete data cleaning, EDA, statistical analysis, feature engineering, visualization and insight workflow |
-| **Repository** | [Real Estate Data Analysis](https://github.com/dheerajmishra75/Real-Estate-Data-Analysis) |
-
-#### Core Work
-
-- Dataset inspection and understanding
-- Data cleaning and preprocessing
-- Missing-value analysis
-- Duplicate detection and removal
-- Data type conversion
-- Feature engineering
-- Area categorization
-- BHK extraction
-- Statistical analysis using NumPy
-- Exploratory Data Analysis using Pandas
-- Property type and flat type analysis
-- Locality-wise analysis
-- RERA approval analysis
+**Dataset & Analysis**
+- 19,515 original records
+- 12 original columns
+- 5,292 duplicate records removed
+- Area-price correlation ≈ **0.1974**
+- Property and flat-type analysis
+- Rate-per-square-foot analysis
+- Locality analysis
+- RERA analysis
 - Builder/listing-source analysis
-- Correlation analysis
+- BHK analysis
 - Outlier analysis
-- Matplotlib and Seaborn visualization
-- Business-question-driven insight generation
 
-[Live Demo](https://real-estate-data-analysis.vercel.app/) · [Jupyter Notebook](https://github.com/dheerajmishra75/Real-Estate-Data-Analysis/blob/main/notebook/Real%20Estate%20Data%20Analysis%20Project.ipynb)
+**Tech Stack**
+
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+
+**Focus:** Descriptive Analysis • Exploratory Data Analysis • Data Cleaning • Visualization
+
+| Resource | Link |
+|---|---|
+| Repository | [GitHub](https://github.com/dheerajmishra75/Real-Estate-Data-Analysis) |
+| Live Project | [View Live](https://real-estate-data-analysis.vercel.app/) |
+| Notebook | [Open Notebook](https://github.com/dheerajmishra75/Real-Estate-Data-Analysis/blob/main/notebook/Real%20Estate%20Data%20Analysis%20Project.ipynb) |
 
 </details>
 
 <details>
-<summary><strong>🤖 Sentiment Sense</strong></summary>
+<summary><strong>💬 Sentiment Sense — NLP Sentiment Analysis</strong></summary>
 
-### Sentiment Sense
+<br/>
 
-NLP-focused sentiment analysis project using **pretrained CardiffNLP RoBERTa** as the primary sentiment classifier and **VADER** for supporting sentiment analysis.
+An NLP-focused sentiment analysis project combining pretrained language-model based analysis with VADER sentiment analysis.
 
-| Category | Details |
+**Technical Focus**
+- Natural Language Processing
+- Text sentiment analysis
+- CardiffNLP RoBERTa
+- VADER
+- Amazon Reviews dataset
+- Text preprocessing
+- Sentiment classification
+
+**Tech Stack**
+
+`Python` `NLP` `RoBERTa` `VADER`
+
+| Resource | Link |
 |---|---|
-| **Stack** | NLP, CardiffNLP RoBERTa, Hugging Face Transformers, VADER |
-| **Scale** | Amazon Reviews dataset used during analysis; runtime supports new user-provided text |
-| **Performance** | Probability-based Positive, Neutral and Negative classification |
-| **Security** | Not a security-focused project |
-| **Impact** | Practical transformer-based NLP inference with supporting sentiment signals |
-| **Repository** | [Sentiment Sense](https://github.com/dheerajmishra75/sentiment-sense) |
-
-#### Core Work
-
-- Pretrained transformer-based sentiment classification
-- CardiffNLP RoBERTa inference
-- Text tokenization
-- Positive, Neutral and Negative classification
-- Probability distribution analysis
-- Model confidence analysis
-- VADER supporting sentiment scores
-- Analysis of completely new user-provided text
-- Comparison of sentiment signals
-
-[Live Demo](https://sentiment-sense-ten.vercel.app/)
+| Repository | [GitHub](https://github.com/dheerajmishra75/sentiment-sense) |
+| Live Project | [View Live](https://sentiment-sense-ten.vercel.app/) |
 
 </details>
 
 <details>
 <summary><strong>📰 Fake News Detection</strong></summary>
 
-### Fake News Detection
+<br/>
 
-NLP and Machine Learning project for classifying news content as **Fake** or **Genuine** using text preprocessing, TF-IDF feature extraction and supervised learning models.
+A supervised machine learning project for classifying news as fake or genuine using NLP preprocessing and TF-IDF feature extraction.
 
-| Category | Details |
-|---|---|
-| **Stack** | Python, Pandas, TF-IDF, Scikit-learn, NLP |
-| **Scale** | Labeled Fake / True news datasets |
-| **Performance** | Logistic Regression: 98.57%; Random Forest: 98.90% accuracy on the analyzed dataset |
-| **Security** | Not a security-focused project |
-| **Impact** | End-to-end NLP classification workflow from preprocessing to model evaluation |
-| **Repository** | [Fake News Detection](https://github.com/dheerajmishra75/fake-genuine-news-detection) |
-
-#### Core Work
-
-- Dataset preparation and inspection
+**Workflow**
+- Dataset preparation
 - Text preprocessing
-- Feature engineering
 - TF-IDF feature extraction
+- Model training
+- Model comparison
+- Model evaluation
+
+**Models**
 - Logistic Regression
 - Decision Tree
 - Random Forest
 - Gradient Boosting
-- Model comparison
-- Model evaluation
 
-[Live Demo](https://fake-genuine-news-detection.vercel.app/)
+**Verified Results**
+- Logistic Regression: ≈ **98.57% accuracy**
+- Random Forest: ≈ **98.90% accuracy**
+
+**Tech Stack**
+
+`Python` `Scikit-learn` `NLP` `TF-IDF`
+
+| Resource | Link |
+|---|---|
+| Repository | [GitHub](https://github.com/dheerajmishra75/fake-genuine-news-detection) |
+| Live Project | [View Live](https://fake-genuine-news-detection.vercel.app/) |
 
 </details>
 
 <details>
-<summary><strong>🛣️ Road Lane Detection</strong></summary>
+<summary><strong>🛣️ Road Lane Detection System</strong></summary>
 
-### Road Lane Detection System
+<br/>
 
-Computer Vision project focused on detecting road lane markings using Python and OpenCV.
+A computer vision project focused on detecting road lane markings from image/video input.
 
-| Category | Details |
-|---|---|
-| **Stack** | Python, OpenCV, Image Processing |
-| **Scale** | Image-based road lane detection workflow |
-| **Performance** | Real-time-oriented lane detection approach |
-| **Security** | Not a security-focused project |
-| **Impact** | Applied computer vision and image processing techniques to road lane detection |
-| **Repository** | [GitHub Profile](https://github.com/dheerajmishra75) |
-
-#### Core Work
-
-- Image preprocessing
+**Technical Focus**
+- OpenCV
+- Python
 - Edge detection
 - Region masking
-- Lane boundary detection
-- Computer vision-based image processing
-- OpenCV implementation
-- Road lane analysis
+- Lane-marking detection
+- Real-time analysis
+
+**Tech Stack**
+
+`Python` `OpenCV` `Computer Vision`
 
 </details>
 
 <details>
-<summary><strong>📊 DheerajShop Analytics</strong></summary>
+<summary><strong>🛒 DheerajShop — E-Commerce Sales Analytics</strong></summary>
 
-### DheerajShop — E-Commerce Sales Analytics
+<br/>
 
-SQL-driven e-commerce analytics project focused on relational database design, structured datasets, analytical SQL queries, database views and business analysis.
+A SQL-driven e-commerce analytics project focused on relational database design, structured datasets and business analysis.
 
-| Category | Details |
-|---|---|
-| **Stack** | SQL, Relational Database, Database Design |
-| **Scale** | 5 core relational tables and 17 business analyses |
-| **Performance** | SQL-driven analytical queries and database views |
-| **Security** | Primary and foreign-key relationships supporting relational integrity |
-| **Impact** | Business analysis across revenue, products, customers, orders, payments and inventory |
-| **Repository** | [DheerajShop Analytics](https://github.com/dheerajmishra75/dheerajshopanalytics) |
+**Database Structure**
+- Customers
+- Products
+- Orders
+- Order Items
+- Payments
 
-#### Core Work
-
-- Relational database design
-- Customers, products, orders, order items and payments
-- Primary and foreign key relationships
-- Dataset insertion and structuring using SQL
-- SQL analytical queries
-- JOIN operations
-- GROUP BY and aggregate functions
-- CASE expressions
+**Analytics**
+- 17 business analyses
+- SQL queries
+- Database views
+- JOINs
+- GROUP BY
+- Aggregate functions
+- CASE statements
 - Subqueries
 - RANK()
 - ROW_NUMBER()
 - PARTITION BY
-- Database views
-- 17 SQL-driven business analyses
+
+**Tech Stack**
+
+`SQL` `Database Design` `Relational Analytics`
+
+| Resource | Link |
+|---|---|
+| Repository | [GitHub](https://github.com/dheerajmishra75/dheerajshopanalytics) |
+| Live Project | [View Live](https://dheerajshopanalytics.vercel.app/) |
 
 </details>
 
 ---
 
-## Experience
+# 💼 Experience
 
-### Data Science Intern — Pinnacle Labs
+### 🔬 Data Science Intern — Pinnacle Labs
+**Nov 2025 – Dec 2025**
 
-**November 2025 – December 2025**
+- Worked on machine learning projects including **Fake News Detection, Sentiment Analysis and Road Lane Detection**.
+- Worked with data preprocessing, feature engineering and model evaluation.
+- Used **Python, Pandas, NumPy and Scikit-learn**.
+- Applied **NLP and Computer Vision** concepts to practical projects.
 
-Worked on practical Data Science projects involving machine learning, NLP, computer vision and data preprocessing.
+### 🌐 Contributor — GirlScript Summer of Code (GSSoC'25)
+**Sep 2025 – Dec 2025**
 
-**Scope of Work**
+- Contributed to open-source projects.
+- Collaborated through Git and GitHub.
+- Worked within an open-source contribution workflow.
 
-- Developed and implemented machine learning projects
-- Worked on Fake News Detection
-- Worked on Sentiment Analysis
-- Worked on Road Lane Detection
-- Performed data preprocessing
-- Applied feature engineering techniques
-- Performed model evaluation
-- Used Python, Pandas, NumPy and Scikit-learn
-- Applied NLP and Computer Vision techniques to real-world data problems
+### 🎮 Founder — Joker Esports
+**Dec 2022 – Present**
 
-`Python` `Pandas` `NumPy` `Scikit-learn` `Machine Learning` `NLP` `Computer Vision`
-
-### Contributor — GirlScript Summer of Code (GSSoC'25)
-
-**September 2025 – December 2025**
-
-Contributed to open-source projects while collaborating with developers and improving practical Git and GitHub workflow skills.
-
-**Scope of Work**
-
-- Contributed to open-source projects
-- Collaborated with developers
-- Worked with Git and GitHub
-- Improved version-control practices
-- Participated in collaborative development workflows
-
-`Git` `GitHub` `Open Source` `Collaboration`
-
-### Founder — Joker Esports
-
-**December 2022 – Present**
-
-Founded and manage an esports community focused on organizing competitive gaming events and community activities.
-
-**Scope of Work**
-
-- Organize daily tournaments and competitive events
-- Handle event planning
-- Manage community engagement
-- Coordinate tournament activities
-- Develop leadership and communication skills
-- Manage team and community operations
-
-`Leadership` `Community Management` `Event Management` `Communication`
+- Founded and manages a BGMI esports community.
+- Organizes free-entry scrims and competitive tournaments.
+- Handles event planning, coordination and community engagement.
+- Manages community operations and competitive activities.
 
 ---
 
-## Achievements
+# 🏆 Achievements
 
 <div align="center">
 
-| Recognition | Details |
+| Achievement | Details |
 |---|---|
-| **Samsung Innovation Campus** | Successfully completed a 2-month program with hands-on training in Artificial Intelligence, Big Data and Data Science |
-| **Smart India Hackathon 2025** | Participated in the Smart India Hackathon 2025 Internal Round |
-| **GirlScript Summer of Code'25** | Active contributor to an open-source program and collaborative development environment |
-| **Stan Fest 2024** | Volunteered in event management and coordination |
-| **Joker Esports** | Founded and managed an esports community organizing daily tournaments and competitive events |
+| 🎓 **Samsung Innovation Campus** | Completed a 2-month program in Artificial Intelligence, Big Data and Data Science |
+| 🏫 **Smart India Hackathon 2025** | Participated in the Internal Round |
+| 💻 **GSSoC'25** | Open-source contributor |
+| 🎪 **Stan Fest 2024** | Volunteered in event management and coordination |
+| 🎮 **Joker Esports** | Founded and manage an esports community |
 
 </div>
 
 ---
 
-## Certifications
+# 📜 Certifications
 
 ### Samsung
 
-<img src="https://img.shields.io/badge/Samsung%20Innovation%20Campus-AI%20%7C%20Big%20Data%20%7C%20Data%20Science-1428A0?style=for-the-badge&logo=samsung&logoColor=white" />
+- **Samsung Innovation Campus** — Artificial Intelligence / Big Data / Data Science
 
-**Samsung Innovation Campus**  
-Artificial Intelligence, Big Data & Data Science — **2 Months**
+### Amazon Web Services
 
-### AWS
-
-<img src="https://img.shields.io/badge/AWS-Data%20Engineering%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
-**AWS Data Engineering Foundations**
+- **Data Engineering on AWS — Foundations**
 
 ### HCL GUVI
 
-<img src="https://img.shields.io/badge/HCL%20GUVI-Data%20Engineering%20%26%20Big%20Data-6D28D9?style=for-the-badge" />
+- **Introduction to Data Engineering And Bigdata**
+- **Chatgpt for everyone**
 
-**HCL GUVI Data Engineering & Big Data**
+### Smart India Hackathon
+
+- **Smart India Hackathon**
+
+### Combat Cyber Shield
+
+- **Certificate of Participation**
+
+### GroMo
+
+- **Certified Trust and Financial Advisor (CTFA)**
 
 ---
 
-## Coding Profiles
+# 🔗 Coding & Professional Profiles
 
 <div align="center">
 
 <a href="https://github.com/dheerajmishra75">
-<img src="https://img.shields.io/badge/GitHub-dheerajmishra75-312E81?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-dheerajmishra75-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+</a>
+
+<a href="https://www.linkedin.com/in/dheeraj-mishra-5513b0356">
+<img src="https://img.shields.io/badge/LinkedIn-Dheeraj%20Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
 </a>
 
 </div>
 
 ---
 
-## GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/dheerajmishra75">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=dheerajmishra75&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=dheerajmishra75&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Dheeraj's GitHub statistics" />
 </a>
 
 <a href="https://github.com/dheerajmishra75">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajmishra75&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=A78BFA&text_color=C4B5FD" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajmishra75&layout=compact&theme=tokyonight&hide_border=true" alt="Dheeraj's top languages" />
 </a>
 
-<br><br>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=dheerajmishra75&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=94A3B8" />
+<img src="https://streak-stats.demolab.com?user=dheerajmishra75&theme=tokyonight&hide_border=true" alt="Dheeraj's GitHub streak" />
 
 </div>
 
 ---
 
-## GitHub Trophies
+# 🏅 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dheerajmishra75&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=6" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=dheerajmishra75&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=6" alt="GitHub Trophies" width="100%" />
 
 </div>
 
 ---
 
-## Contribution Activity
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dheerajmishra75&theme=tokyo-night&hide_border=true&area=true&point=A78BFA&line=8B5CF6&color=C4B5FD" width="100%" alt="GitHub Contribution Activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dheerajmishra75&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity" width="100%" />
 
 </div>
 
 ---
 
-## Contribution Snake
+# 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dheerajmishra75/dheerajmishra75/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dheerajmishra75/dheerajmishra75/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/dheerajmishra75/dheerajmishra75/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/dheerajmishra75/dheerajmishra75/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%">
 </picture>
 
 </div>
 
 ---
 
-## Current Focus
+# 🎯 Current Focus
 
-Learning:
+yaml
+learning:
   - Advanced Data Science
   - Machine Learning
-  - Natural Language Processing
+  - NLP
   - Artificial Intelligence
-  - SQL & Database Analytics
-  - Statistics
-  - Linux & DevOps Fundamentals
+  - Data Analytics
 
-Building:
-  - Data Analytics Projects
-  - NLP Applications
+building:
+  - Data Science Projects
   - Machine Learning Projects
-  - SQL-driven Analytics Solutions
-  - Practical Data Science Workflows
+  - Analytics Projects
+  - AI / NLP Projects
 
-Exploring:
-  - Transformer-based NLP
-  - AI Applications
-  - Applied Machine Learning
-  - Computer Vision
-  - Statistical Analysis
-  - Real-world Data Problems
+improving:
+  - SQL
+  - Statistics
+  - Model Evaluation
+  - Data Visualization
+  - Problem Solving
 
-Open To:
-  - Data Science Internships
-  - Data Analytics Internships
-  - Machine Learning Internships
-  - NLP / AI Opportunities
-  - Research Opportunities
-  - Open Source Collaboration
-
-Connect
+    🤝 Connect With Me
 <div align="center">
 
-<a href="mailto:dheerajmishra753402@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-dheerajmishra753402%40gmail.com-B91C1C?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
 <a href="https://www.linkedin.com/in/dheeraj-mishra-5513b0356">
-<img src="https://img.shields.io/badge/LinkedIn-Dheeraj%20Mishra-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
 
 <a href="https://github.com/dheerajmishra75">
-<img src="https://img.shields.io/badge/GitHub-dheerajmishra75-312E81?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Follow on GitHub" />
 </a>
 
-<a href="https://github.com/dheerajmishra75?tab=repositories">
-<img src="https://img.shields.io/badge/Portfolio-GitHub%20Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+<a href="mailto:dheerajmishra753402@gmail.com">
+<img src="https://img.shields.io/badge/Email-Get%20in%20Touch-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Dheeraj" />
 </a>
 
 </div>
 
 <div align="center">
 
-Turning data into insights, models into intelligence, and ideas into practical solutions.
+“Turning data into insights, models into intelligence, and ideas into practical solutions.”
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:4C1D95,50:6D28D9,100:312E81&height=120&section=footer" width="100%" />
+<a href="https://capsule-render.vercel.app/">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:312E81,50:6D28D9,100:4C1D95" width="100%" alt="Footer" />
+</a>
 
 </div>
 
