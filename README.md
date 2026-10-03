@@ -483,7 +483,6 @@ Artificial Intelligence, Big Data & Data Science — **2 Months**
 
 ## Current Focus
 
-```yaml
 Learning:
   - Advanced Data Science
   - Machine Learning
@@ -544,4 +543,4 @@ Connect
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:4C1D95,50:6D28D9,100:312E81&height=120&section=footer" width="100%" />
 
 </div>
-```
+
