@@ -515,3 +515,33 @@ Open To:
   - NLP / AI Opportunities
   - Research Opportunities
   - Open Source Collaboration
+
+Connect
+<div align="center">
+
+<a href="mailto:dheerajmishra753402@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-dheerajmishra753402%40gmail.com-B91C1C?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/dheeraj-mishra-5513b0356">
+<img src="https://img.shields.io/badge/LinkedIn-Dheeraj%20Mishra-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/dheerajmishra75">
+<img src="https://img.shields.io/badge/GitHub-dheerajmishra75-312E81?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/dheerajmishra75?tab=repositories">
+<img src="https://img.shields.io/badge/Portfolio-GitHub%20Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<div align="center">
+
+"Turning data into insights, models into intelligence, and ideas into practical solutions."
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:4C1D95,50:6D28D9,100:312E81&height=120&section=footer" width="100%" />
+
+</div>
+```
