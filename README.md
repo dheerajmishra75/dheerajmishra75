@@ -1,18 +1,15 @@
-# Dheeraj Mishra — Data Science • Data Analytics 
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=DHEERAJ%20MISHRA&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20Data%20Analytics%20%7C%20Machine%20Learning%20%7C%20NLP%20%7C%20AI&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=6,11,20&text=DHEERAJ%20MISHRA&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20SQL%20%7C%20PYTHON%20%7C%20POWER%20BI%20%7C%20DATA-DRIVEN%20INSIGHTS&descAlignY=58&descSize=17" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Data+Science+%7C+Data+Analytics;Machine+Learning+%7C+NLP+%7C+Computer+Vision;Python+%7C+SQL+%7C+Pandas+%7C+NumPy;Building+Data-Driven+Solutions+with+Practical+Impact" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=950&lines=Aspiring+Data+Analyst+%7C+Data+Analytics+Focused;Python+%7C+SQL+%7C+Pandas+%7C+Excel+%7C+Power+BI;Exploratory+Data+Analysis+%7C+Data+Visualization;Turning+Raw+Data+into+Meaningful+Business+Insights;Data+Science+%7C+Machine+Learning+%7C+AI+Knowledge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech%20CSE-2024--2028-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/KMCLU-Lucknow-6D28D9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Science-Focused-8B5CF6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-Engineering-A855F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DATA%20ANALYTICS-MAIN%20CAREER%20FOCUS-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DATA%20ANALYST-CAREER%20DIRECTION-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DATA%20SCIENCE-%26%20ML-SUPPORTING%20KNOWLEDGE-A855F7?style=for-the-badge"/>
 </p>
 
 <p align="center">
@@ -26,11 +23,11 @@
   <a href="https://www.linkedin.com/in/dheeraj-mishra-5513b0356">
     <img src="https://img.shields.io/badge/LinkedIn-Dheeraj%20Mishra-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://dheerajmishra75.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
   <a href="mailto:dheerajmishra753402@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://dheerajmishra75.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
 
@@ -44,130 +41,178 @@
 
 ## About Me
 
-I am **Dheeraj Mishra**, a B.Tech Computer Science Engineering student focused on **Data Science, Data Analytics, Machine Learning, NLP, Artificial Intelligence, and Computer Vision**.
+I am **Dheeraj Mishra**, a B.Tech Computer Science Engineering student primarily focused on building my career as a **Data Analyst**.
 
-I enjoy working with real-world datasets, transforming raw data into meaningful insights, building machine learning solutions, performing exploratory data analysis, and solving practical problems through data-driven approaches.
+My main professional focus is **Data Analytics** — working with data to clean, transform, analyze, visualize, identify patterns, answer business questions, and generate meaningful insights for decision-making.
 
-Currently, I am strengthening my expertise in:
+I work primarily with **Python, SQL, Pandas, NumPy, Excel, Power BI, Matplotlib, and Seaborn** for analytical workflows.
 
-- Data Analysis and Exploratory Data Analysis
-- Python-based data processing
-- SQL and relational data analysis
+Alongside Data Analytics, I also have knowledge of **Data Science, Machine Learning, NLP, Artificial Intelligence, and Computer Vision**. These areas support my analytical background, and I am continuously learning and strengthening my skills in them.
+
+### Primary Career Focus
+
+- Data Analytics
+- Data Analysis
+- SQL
+- Python for Data Analysis
+- Exploratory Data Analysis
+- Data Cleaning
+- Data Visualization
+- Excel
+- Power BI
+- Business Analytics
+- Business Insights
+- Statistical Analysis
+
+### Additional Knowledge
+
+- Data Science
 - Machine Learning
 - Natural Language Processing
 - Sentiment Analysis
 - Text Classification
+- Artificial Intelligence
 - Computer Vision
-- Data Visualization
-- Business-oriented data interpretation
+- Feature Engineering
+- Model Evaluation
 
-I have also completed a **4-month Data Analysis internship at Elytespark**, where I worked with practical data-analysis problems involving data cleaning, exploration, visualization, interpretation, pattern identification, and dataset analysis.
+I have completed a **4-month Data Analysis internship at Elytespark**, where I worked on practical data-analysis problems involving data cleaning, exploration, visualization, interpretation, pattern identification, and dataset analysis.
 
 Previously, I worked as a **Data Science Intern at Pinnacle Labs**, where I worked on projects involving Fake News Detection, Sentiment Analysis, and Road Lane Detection.
 
 ---
 
-## Engineering Profile
+## Professional Direction
 
 ```text
-Focus
-├── Data Science
-├── Data Analytics
-├── Machine Learning
-├── Natural Language Processing
-├── Artificial Intelligence
-└── Computer Vision
+                    DATA ANALYTICS
+                 MAIN CAREER DIRECTION
+                          │
+        ┌─────────────────┼─────────────────┐
+        ▼                 ▼                 ▼
+       SQL              PYTHON          VISUALIZATION
+        │                 │                 │
+   Business Queries     Pandas             Excel
+   Joins                NumPy              Power BI
+   Aggregations         Data Cleaning      Matplotlib
+   Window Functions     EDA                Seaborn
+   Views                Analysis
+        │                 │                 │
+        └─────────────────┼─────────────────┘
+                          ▼
+                  BUSINESS INSIGHTS
+                          │
+                          ▼
+                 DATA-DRIVEN DECISIONS
 
-Core Strengths
-├── Python
-├── SQL
-├── Data Cleaning
-├── Exploratory Data Analysis
-├── Feature Engineering
-├── Statistical Analysis
-├── Machine Learning
-├── NLP
-└── Data Visualization
 
-Approach
-├── Understand the problem
-├── Explore the dataset
-├── Clean and preprocess data
-├── Extract meaningful patterns
-├── Build analytical / ML solutions
-├── Evaluate results
-└── Communicate insights
+              SUPPORTING KNOWLEDGE
+                       │
+        ┌──────────────┼──────────────┐
+        ▼              ▼              ▼
+   DATA SCIENCE   MACHINE LEARNING    AI
+        │              │              │
+        ▼              ▼              ▼
+       NLP       Classification   Computer Vision
+                       │
+                       ▼
+                CONTINUOUS LEARNING
 ```
 
 ---
 
-## Tech Stack
+# Tech Stack
 
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html"/>
-</p>
-
-### Data Science & Analytics
+## Data Analytics — Primary
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python"/>
-</p>
-
-<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 </p>
 
-### Machine Learning & AI
+## Data Science & Machine Learning — Supporting Skills
 
 <p>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Feature%20Engineering-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Model%20Evaluation-6D28D9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-8B5CF6?style=for-the-badge"/>
+</p>
+
+## NLP & AI — Supporting Knowledge
+
+<p>
   <img src="https://img.shields.io/badge/NLP-7C3AED?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/TF--IDF-6D28D9?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/VADER-8B5CF6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
+
+## Computer Vision
+
+<p>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
-### Databases & Querying
+## Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
-### Tools
+## Database & Tools
 
 <p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter"/>
 </p>
 
 ---
 
-## AI / ML Expertise
+# Data Analytics Expertise
 
-| Domain | Proficiency | Details |
+| Area | Proficiency | Details |
 |---|---|---|
-| Data Analysis | Advanced | Data cleaning, EDA, descriptive analysis, pattern identification and interpretation |
-| Python | Advanced | Data processing, analysis, visualization and ML workflows |
+| Data Analytics | Advanced | Data cleaning, EDA, analysis, visualization, pattern identification and insight generation |
+| Data Analysis | Advanced | Transforming raw datasets into meaningful analytical findings |
 | SQL | Advanced | Joins, aggregation, subqueries, window functions, views and business analysis |
-| Machine Learning | Intermediate | Supervised learning, classification, feature engineering and evaluation |
-| NLP | Intermediate | Text preprocessing, TF-IDF, sentiment classification and transformer-based analysis |
-| Sentiment Analysis | Intermediate | VADER and CardiffNLP RoBERTa based sentiment analysis |
-| Computer Vision | Intermediate | OpenCV, edge detection, region masking and lane detection |
+| Python | Advanced | Data processing, analysis, visualization and analytical workflows |
+| Pandas | Advanced | Data cleaning, transformation, filtering, grouping and analysis |
+| NumPy | Intermediate | Numerical operations and data manipulation |
+| Excel | Intermediate | Data analysis, organization and reporting |
+| Power BI | Intermediate | Data visualization and analytical reporting |
+| Exploratory Data Analysis | Advanced | Dataset profiling, duplicates, distributions, relationships and outliers |
 | Data Visualization | Intermediate | Matplotlib, Seaborn, Excel and Power BI |
-| Exploratory Data Analysis | Advanced | Dataset profiling, duplicate handling, distributions, relationships and outliers |
+| Business Analytics | Intermediate | Business questions, KPI-oriented analysis and interpretation |
+| Statistical Analysis | Intermediate | Descriptive statistics, correlation and relationship analysis |
 
 ---
 
-# Featured Projects
+# Data Science & Machine Learning Knowledge
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| Data Science | Intermediate | Data preprocessing, feature engineering, analysis and ML workflows |
+| Machine Learning | Intermediate | Supervised learning, classification and model evaluation |
+| NLP | Intermediate | Text preprocessing, TF-IDF, sentiment classification and transformer-based analysis |
+| Sentiment Analysis | Intermediate | VADER and CardiffNLP RoBERTa based sentiment analysis |
+| Computer Vision | Intermediate | OpenCV, edge detection, region masking and lane detection |
+| Feature Engineering | Intermediate | Transforming raw data into useful model features |
+| Model Evaluation | Intermediate | Comparing models and evaluating classification performance |
+| Artificial Intelligence | Learning | Continuously strengthening practical AI and ML knowledge |
+
+---
+
+# Featured & Pinned Projects
 
 <details>
 <summary><strong>01 — Real Estate Data Analysis</strong></summary>
@@ -228,7 +273,59 @@ This indicates a positive but relatively weak linear relationship within the ana
 ---
 
 <details>
-<summary><strong>02 — Fake News Detection</strong></summary>
+<summary><strong>02 — DheerajShop Analytics</strong></summary>
+
+### Overview
+
+A SQL-driven e-commerce data analytics project focused on database design, business analysis, advanced SQL querying, and database views.
+
+### Database Structure
+
+The project works with five relational tables:
+
+- Customers
+- Products
+- Orders
+- Order Items
+- Payments
+
+### SQL Concepts
+
+- INNER JOIN
+- LEFT JOIN
+- GROUP BY
+- Aggregate Functions
+- CASE
+- Subqueries
+- RANK()
+- ROW_NUMBER()
+- PARTITION BY
+- Database Views
+
+### Business Analysis
+
+The project contains **17 business analyses** designed around e-commerce sales and customer data.
+
+### Stack
+
+| Category | Technologies |
+|---|---|
+| Database | PostgreSQL |
+| Query Language | SQL |
+| Analysis | Business / E-commerce Analytics |
+| Concepts | Joins, Aggregations, Subqueries, Window Functions, Views |
+
+### Links
+
+- [Repository](https://github.com/dheerajmishra75/dheerajshopanalytics)
+- [Live Project](https://dheerajshopanalytics.vercel.app/)
+
+</details>
+
+---
+
+<details>
+<summary><strong>03 — Fake News Detection</strong></summary>
 
 ### Overview
 
@@ -286,7 +383,7 @@ Fake / True Classification
 ---
 
 <details>
-<summary><strong>03 — Sentiment Sense</strong></summary>
+<summary><strong>04 — Sentiment Sense</strong></summary>
 
 ### Overview
 
@@ -328,58 +425,6 @@ Sentiment Classification
 
 - [Repository](https://github.com/dheerajmishra75/sentiment-sense)
 - [Live Project](https://sentiment-sense-ten.vercel.app/)
-
-</details>
-
----
-
-<details>
-<summary><strong>04 — DheerajShop Analytics</strong></summary>
-
-### Overview
-
-A SQL-driven e-commerce data analytics project focused on database design, business analysis, advanced SQL querying, and database views.
-
-### Database Structure
-
-The project works with five relational tables:
-
-- Customers
-- Products
-- Orders
-- Order Items
-- Payments
-
-### SQL Concepts
-
-- INNER JOIN
-- LEFT JOIN
-- GROUP BY
-- Aggregate Functions
-- CASE
-- Subqueries
-- RANK()
-- ROW_NUMBER()
-- PARTITION BY
-- Database Views
-
-### Business Analysis
-
-The project contains **17 business analyses** designed around e-commerce sales and customer data.
-
-### Stack
-
-| Category | Technologies |
-|---|---|
-| Database | PostgreSQL |
-| Query Language | SQL |
-| Analysis | Business / E-commerce Analytics |
-| Concepts | Joins, Aggregations, Subqueries, Window Functions, Views |
-
-### Links
-
-- [Repository](https://github.com/dheerajmishra75/dheerajshopanalytics)
-- [Live Project](https://dheerajshopanalytics.vercel.app/)
 
 </details>
 
@@ -582,7 +627,9 @@ Responsibilities include:
 # GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dheerajmishra75&theme=nord&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=6"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=dheerajmishra75&theme=nord&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=6" alt="GitHub Profile Trophies"/>
+  </a>
 </p>
 
 ---
@@ -590,7 +637,7 @@ Responsibilities include:
 # Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dheerajmishra75&theme=nord&hide_border=true&area=true&color=7DD3FC&line=7DD3FC&point=7DD3FC" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dheerajmishra75&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity"/>
 </p>
 
 ---
@@ -599,9 +646,9 @@ Responsibilities include:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dheerajmishra75/dheerajmishra75/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dheerajmishra75/dheerajmishra75/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/dheerajmishra75/dheerajmishra75/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dheerajmishra75/dheerajmishra75/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dheerajmishra75/dheerajmishra75/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/dheerajmishra75/dheerajmishra75/output/github-contribution-grid-snake.svg"/>
   </picture>
 </p>
 
@@ -610,32 +657,51 @@ Responsibilities include:
 # Current Focus
 
 <pre>
-Learning:
-  - Advanced Data Analytics
-  - Machine Learning
-  - NLP
+PRIMARY FOCUS
+  - Data Analytics
+  - Data Analyst Career Preparation
   - SQL
+  - Python for Data Analysis
+  - Pandas
+  - NumPy
+  - Excel
+  - Power BI
+  - Exploratory Data Analysis
   - Data Visualization
+  - Business Analytics
   - Statistical Analysis
+  - Business Insights
 
-Building:
-  - Data Analysis Projects
-  - Machine Learning Projects
-  - NLP Applications
-  - SQL Analytics Projects
-
-Exploring:
+CURRENTLY LEARNING
+  - Advanced Data Analytics
+  - Advanced SQL
+  - Statistics
+  - Machine Learning
+  - Data Science
+  - NLP
   - Artificial Intelligence
-  - Transformer Models
-  - Advanced NLP
-  - Computer Vision
-  - Data Engineering
 
-Open To:
+BUILDING
+  - Data Analysis Projects
+  - SQL Analytics Projects
+  - Business Analytics Projects
+  - Machine Learning Projects
+  - NLP Projects
+
+EXPLORING
+  - Advanced Machine Learning
+  - Transformer Models
+  - Artificial Intelligence
+  - Computer Vision
+  - Advanced Data Science
+
+OPEN TO
+  - Data Analyst Internships
+  - Data Analytics Opportunities
   - Data Science Internships
-  - Data Analytics Internships
-  - Machine Learning Opportunities
+  - Machine Learning Projects
   - AI / NLP Projects
+  - Data Analytics Collaboration
   - Open Source Collaboration
 </pre>
 
@@ -662,7 +728,7 @@ Open To:
 ---
 
 <p align="center">
-  <strong>“Turning data into insights, models into solutions, and ideas into measurable impact.”</strong>
+  <strong>“Turning raw data into meaningful insights and business decisions — while continuously growing in Data Science, Machine Learning and AI.”</strong>
 </p>
 
 <p align="center">
