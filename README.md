@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/DATA%20ANALYTICS-MAIN%20CAREER%20FOCUS-7C3AED?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DATA%20ANALYST-CAREER%20DIRECTION-8B5CF6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DATA%20SCIENCE-%26%20ML-SUPPORTING%20KNOWLEDGE-A855F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DATA%20SCIENCE%20%26%20ML-SUPPORTING%20KNOWLEDGE-A855F7?style=for-the-badge"/>
 </p>
 
 <p align="center">
@@ -474,6 +474,28 @@ Real-Time Analysis
 
 ---
 
+# Pinned Repositories
+
+<p align="center">
+  <a href="https://github.com/dheerajmishra75/Real-Estate-Data-Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dheerajmishra75&repo=Real-Estate-Data-Analysis&theme=nord&hide_border=true"/>
+  </a>
+  <a href="https://github.com/dheerajmishra75/dheerajshopanalytics">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dheerajmishra75&repo=dheerajshopanalytics&theme=nord&hide_border=true"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/dheerajmishra75/fake-genuine-news-detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dheerajmishra75&repo=fake-genuine-news-detection&theme=nord&hide_border=true"/>
+  </a>
+  <a href="https://github.com/dheerajmishra75/sentiment-sense">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dheerajmishra75&repo=sentiment-sense&theme=nord&hide_border=true"/>
+  </a>
+</p>
+
+---
+
 # Experience
 
 ## Data Analysis Intern — Elytespark
@@ -605,6 +627,14 @@ Responsibilities include:
 
 <a href="https://www.linkedin.com/in/dheeraj-mishra-5513b0356">
 <img src="https://img.shields.io/badge/LinkedIn-Dheeraj%20Mishra-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/dheerajmishra75/">
+<img src="https://img.shields.io/badge/LeetCode-dheerajmishra75-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/dheerajmishra751">
+<img src="https://img.shields.io/badge/HackerRank-dheerajmishra751-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 </a>
 
 </p>
