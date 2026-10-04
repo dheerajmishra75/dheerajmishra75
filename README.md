@@ -474,22 +474,6 @@ Real-Time Analysis
 
 ---
 
-# Pinned Repositories
-
-<p align="center">
-
-<a href="https://github.com/dheerajmishra75/The-Perfect-Guess">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dheerajmishra75&repo=The-Perfect-Guess&theme=nord&hide_border=true"/>
-</a>
-
-<a href="https://github.com/dheerajmishra75/Quize-App-in-Python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dheerajmishra75&repo=Quize-App-in-Python&theme=nord&hide_border=true"/>
-</a>
-
-</p>
-
----
-
 # Experience
 
 ## Data Analysis Intern — Elytespark
@@ -570,12 +554,20 @@ Responsibilities include:
 | GirlScript Summer of Code 2025 | Open-source contributor |
 | Stan Fest 2024 | Volunteer |
 | Joker Esports | Founder and Manager of BGMI esports community |
+| Sipher Web Academy | Best Project Rank-1 Award — Python With Data Science |
 
 </div>
 
 ---
 
 # Certifications
+
+### Sipher Web Academy, Lucknow
+
+- **5-Day Technical Bootcamp — Python With Data Science**
+- Date of Issue: September 23, 2026
+- **Python with Data Science – Best Project Rank-1 Certificate**
+- **Best Project Rank-1 Award — Python With Data Science**
 
 ### AWS
 
@@ -609,6 +601,17 @@ Responsibilities include:
 - **Certified Trust and Financial Advisor (CTFA)**
 - Issued: July 2025
 
+### Elytespark
+
+- **Data Analysis Internship Certificate**
+- Completed: 4-Month Internship
+- Focus: Data Analysis, Data Cleaning, EDA, Visualization and Real-World Data
+
+### Be10x
+
+- **AI Tools & ChatGPT Workshop**
+- Issued: February 2026
+
 ---
 
 # Coding & Professional Profiles
@@ -628,7 +631,7 @@ Responsibilities include:
 </a>
 
 <a href="https://www.hackerrank.com/profile/dheerajmishra751">
-<img src="https://img.shields.io/badge/HackerRank-dheerajmishra751-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+<img src="https://img.shields.io/badge/HackerRank-dheerajmishra751-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 </p>
@@ -661,11 +664,7 @@ Responsibilities include:
 # Contribution Activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dheerajmishra75/dheerajmishra75/output/activity-graph-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dheerajmishra75/dheerajmishra75/output/activity-graph-light.svg"/>
-    <img alt="GitHub Contribution Activity" src="https://raw.githubusercontent.com/dheerajmishra75/dheerajmishra75/output/activity-graph-light.svg" width="100%"/>
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dheerajmishra75&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity"/>
 </p>
 
 ---
