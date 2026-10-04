@@ -1,4 +1,4 @@
-# Dheeraj Mishra — Data Science • Data Analytics • Machine Learning • NLP • AI
+# Dheeraj Mishra — Data Science • Data Analytics 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=DHEERAJ%20MISHRA&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20Data%20Analytics%20%7C%20Machine%20Learning%20%7C%20NLP%20%7C%20AI&descAlignY=58&descSize=18" width="100%"/>
