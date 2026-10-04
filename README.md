@@ -12,10 +12,6 @@
 </p>
 
 <p align="center">
-  📍 Bazpur, Uttarakhand, India
-</p>
-
-<p align="center">
   <a href="https://github.com/dheerajmishra75">
     <img src="https://img.shields.io/badge/GitHub-dheerajmishra75-181717?style=for-the-badge&logo=github"/>
   </a>
@@ -169,7 +165,10 @@ Previously, I worked as a **Data Science Intern at Pinnacle Labs**, where I work
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ---
