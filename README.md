@@ -664,7 +664,11 @@ Responsibilities include:
 # Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dheerajmishra75&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dheerajmishra75/dheerajmishra75/output/activity-graph-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dheerajmishra75/dheerajmishra75/output/activity-graph-light.svg"/>
+    <img alt="GitHub Contribution Activity" src="https://raw.githubusercontent.com/dheerajmishra75/dheerajmishra75/output/activity-graph-light.svg"/>
+  </picture>
 </p>
 
 ---
