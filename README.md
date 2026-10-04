@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DATA%20ANALYTICS-MAIN%20CAREER%20FOCUS-7C3AED?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DATA%20ANALYST-CAREER%20DIRECTION-8B5CF6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DATA%20SCIENCE%20%26%20ML-SUPPORTING%20KNOWLEDGE-A855F7?style=for-the-badge"/>
 </p>
@@ -26,13 +25,10 @@
   <a href="mailto:dheerajmishra753402@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://dheerajmishra75.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/Portfolio-SOON-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dheerajmishra75&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
   <img src="https://img.shields.io/github/followers/dheerajmishra75?label=Followers&style=for-the-badge&color=8B5CF6"/>
   <img src="https://img.shields.io/github/stars/dheerajmishra75?label=Profile%20Stars&style=for-the-badge&color=A855F7"/>
 </p>
