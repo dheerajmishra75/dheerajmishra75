@@ -212,7 +212,7 @@ Previously, I worked as a **Data Science Intern at Pinnacle Labs**, where I work
 
 ---
 
-# Featured & Pinned Projects
+# Featured Projects
 
 <details>
 <summary><strong>01 — Real Estate Data Analysis</strong></summary>
@@ -477,21 +477,15 @@ Real-Time Analysis
 # Pinned Repositories
 
 <p align="center">
-  <a href="https://github.com/dheerajmishra75/Real-Estate-Data-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dheerajmishra75&repo=Real-Estate-Data-Analysis&theme=nord&hide_border=true"/>
-  </a>
-  <a href="https://github.com/dheerajmishra75/dheerajshopanalytics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dheerajmishra75&repo=dheerajshopanalytics&theme=nord&hide_border=true"/>
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/dheerajmishra75/fake-genuine-news-detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dheerajmishra75&repo=fake-genuine-news-detection&theme=nord&hide_border=true"/>
-  </a>
-  <a href="https://github.com/dheerajmishra75/sentiment-sense">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dheerajmishra75&repo=sentiment-sense&theme=nord&hide_border=true"/>
-  </a>
+<a href="https://github.com/dheerajmishra75/The-Perfect-Guess">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dheerajmishra75&repo=The-Perfect-Guess&theme=nord&hide_border=true"/>
+</a>
+
+<a href="https://github.com/dheerajmishra75/Quize-App-in-Python">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dheerajmishra75&repo=Quize-App-in-Python&theme=nord&hide_border=true"/>
+</a>
+
 </p>
 
 ---
@@ -670,7 +664,7 @@ Responsibilities include:
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dheerajmishra75/dheerajmishra75/output/activity-graph-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dheerajmishra75/dheerajmishra75/output/activity-graph-light.svg"/>
-    <img src="https://raw.githubusercontent.com/dheerajmishra75/dheerajmishra75/output/activity-graph-light.svg" width="100%" alt="GitHub Contribution Activity"/>
+    <img alt="GitHub Contribution Activity" src="https://raw.githubusercontent.com/dheerajmishra75/dheerajmishra75/output/activity-graph-light.svg" width="100%"/>
   </picture>
 </p>
 
